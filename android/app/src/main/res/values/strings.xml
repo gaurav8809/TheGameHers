@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TheGameHers</string>
+    <string name="server_client_id">292125051502-tvqe08mele398molnnnhed6vbkp9lerk.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">806000366963670</string>
+    <string name="fb_login_protocol_scheme">fb806000366963670</string>
+</resources>
